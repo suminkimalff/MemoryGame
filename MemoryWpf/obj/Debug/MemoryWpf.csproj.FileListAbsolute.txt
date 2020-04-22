@@ -1,0 +1,15 @@
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf.csprojAssemblyReference.cache
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MainWindow.g.cs
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\App.g.cs
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf_MarkupCompile.cache
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf_MarkupCompile.lref
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\bin\Debug\MemoryWpf.exe.config
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\bin\Debug\MemoryWpf.exe
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\bin\Debug\MemoryWpf.pdb
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MainWindow.baml
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf.g.resources
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf.Properties.Resources.resources
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf.csproj.GenerateResource.cache
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf.csproj.CoreCompileInputs.cache
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf.exe
+C:\Sumin\Github\MemoryGame\MemoryWpf\MemoryWpf\obj\Debug\MemoryWpf.pdb
